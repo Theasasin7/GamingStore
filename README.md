@@ -1,3 +1,14 @@
+# Hi 👋, I'm Ulises Cruz
+
+## A new fullstack developer from United States.
+
+### This project is about a GamingStore created with ReactJs.
+
+This page was created from the CoderHouse ReactJS course, it is an ecommerse prototype where you can buy different types of games.
+
+### Languages and Tools used in the project:
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
