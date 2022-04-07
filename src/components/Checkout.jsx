@@ -15,7 +15,7 @@ export const Checkout = () => {
         const order = {
             buyer: values,
             items: cart,
-            total: totalCart(),
+            total: totalCart().toFixed(2),
             date: Timestamp.fromDate(new Date())
         }
 
