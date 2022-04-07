@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GamingStore/static/css/main.810ffe9a.css",
+    "main.js": "/GamingStore/static/js/main.79bce973.js",
+    "static/js/787.35068847.chunk.js": "/GamingStore/static/js/787.35068847.chunk.js",
+    "index.html": "/GamingStore/index.html",
+    "main.810ffe9a.css.map": "/GamingStore/static/css/main.810ffe9a.css.map",
+    "main.79bce973.js.map": "/GamingStore/static/js/main.79bce973.js.map",
+    "787.35068847.chunk.js.map": "/GamingStore/static/js/787.35068847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.810ffe9a.css",
+    "static/js/main.79bce973.js"
+  ]
+}
